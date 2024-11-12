@@ -1,0 +1,42 @@
+.header{
+    color:#FF4500;
+    background-color:#FFD700;
+    text-align: center;
+    padding: 10px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.subheader{
+    color:teal;
+    text-align: center;
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.DBZvegeta{
+    border:3px solid gray;
+    color:gainsboro;
+    margin-right: 550px;
+    margin-left: 500px;
+    padding: 20px;
+    padding-right: 40px;
+
+}
+.details{
+    color:darkgray;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 50px;
+    text-align: center;
+}
+.img1{
+    margin-left: 800px;
+}
+.details2{
+    color:darkgray;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 600px;
+}
+.details3{
+    color:darkgray;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-right: 600px;
+}
